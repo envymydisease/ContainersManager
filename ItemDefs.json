@@ -5,7 +5,6 @@
 		"itemdefid": 1,
 		"type":  "item",
 		"name": "Baz 2101",
-		"description": "",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/1_200.png",
@@ -13,17 +12,49 @@
 		"tradable": true,
 		"marketable": true
 	},
-    {
+        {
 		"itemdefid": 2,
 		"type":  "item",
 		"name": "Obey 80",
-		"description": "",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/2.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/2_2048.png",
 		"tradable": true,
 		"marketable": true
-	}
+	},
+	{
+		"itemdefid": 3,
+		"type":  "item",
+		"name": "Benefactor W123",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/3_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/3_2048.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 4,
+		"type":  "item",
+		"name": "Peugato 206",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/4_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/4_2048.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 5,
+		"type":  "item",
+		"name": "Vapid Focus",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/5_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/5_2048.png",
+		"tradable": true,
+		"marketable": true
+	},
 	]
 }
