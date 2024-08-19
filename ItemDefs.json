@@ -496,5 +496,82 @@
 		"tradable": true,
 		"marketable": true
 	},
+	{
+		"itemdefid": 101,
+		"type":  "item",
+		"name": "Rusty container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/101_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/101_600.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 102,
+		"type":  "item",
+		"name": "Bronze container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/102_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/102_600.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 103,
+		"type":  "item",
+		"name": "Silver container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/103_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/103_600.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 104,
+		"type":  "item",
+		"name": "Gold container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/104_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/104_600.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 105,
+		"type":  "item",
+		"name": "Graffiti container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/105_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/105_600.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 106,
+		"type":  "item",
+		"name": "Lightning container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/106_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/106_600.png",
+		"tradable": true,
+		"marketable": true
+	},
+	{
+		"itemdefid": 107,
+		"type":  "item",
+		"name": "Rainbow container",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/107_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/107_600.png",
+		"tradable": true,
+		"marketable": true
+	},
 	]
 }
