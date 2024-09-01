@@ -572,7 +572,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/107_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "<p style=color:#3C352E>Test 123</p> <p style=color:#3C442E>Test 1344</p> <p style=color:#3C552E>Test 1233</p>"
+		"description": "<font color="#3C352E">Test123</font> <font color="#3C442E">Test12323</font> <font color="#3C552E">Test126723</font>"
 	}
 	]
 }
