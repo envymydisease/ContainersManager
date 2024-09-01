@@ -4,6 +4,7 @@
 	{
 		"itemdefid": 1,
 		"type":  "item",
+		"tags": "quality:common",
 		"name": "Baz 2101",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -15,6 +16,7 @@
         {
 		"itemdefid": 2,
 		"type":  "item",
+		"tags": "quality:common",
 		"name": "Obey 80",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -26,6 +28,7 @@
 	{
 		"itemdefid": 3,
 		"type":  "item",
+		"tags": "quality:common",
 		"name": "Benefactor W123",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -37,6 +40,7 @@
 	{
 		"itemdefid": 4,
 		"type":  "item",
+		"tags": "quality:common",
 		"name": "Peugato 206",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -60,6 +64,7 @@
 	{
 		"itemdefid": 6,
 		"type":  "item",
+		"tags": "quality:common",
 		"name": "Karin AE86",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -71,6 +76,7 @@
 	{
 		"itemdefid": 7,
 		"type":  "item",
+		"tags": "quality:common",
 		"name": "Dinka Acco 8",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -82,6 +88,7 @@
 	{
 		"itemdefid": 11,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "Grotti Julietta 156",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -93,6 +100,7 @@
 	{
 		"itemdefid": 12,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "Karin Camv",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -104,6 +112,7 @@
 	{
 		"itemdefid": 13,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "Obey A6",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -115,6 +124,7 @@
 	{
 		"itemdefid": 14,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "Ubermacht E34",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -126,6 +136,7 @@
 	{
 		"itemdefid": 15,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "Benefactor SL300",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -137,6 +148,7 @@
 	{
 		"itemdefid": 16,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "Vapid Mondeo",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -148,6 +160,7 @@
 	{
 		"itemdefid": 17,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "BF Paccat 18",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -159,6 +172,7 @@
 	{
 		"itemdefid": 17,
 		"type":  "item",
+		"tags": "quality:uncommon",
 		"name": "BF Paccat 18",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
@@ -170,6 +184,7 @@
 	{
 		"itemdefid": 21,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "Maibatsu Evo Nine",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -181,6 +196,7 @@
 	{
 		"itemdefid": 22,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "Ubermacht E30",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -192,6 +208,7 @@
 	{
 		"itemdefid": 23,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "Benefactor V250",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -203,6 +220,7 @@
 	{
 		"itemdefid": 24,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "Albany Escalader",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -214,6 +232,7 @@
 	{
 		"itemdefid": 25,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "Declasse Impaler 1967",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -225,6 +244,7 @@
 	{
 		"itemdefid": 26,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "Benefactor GLS63",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -236,6 +256,7 @@
 	{
 		"itemdefid": 27,
 		"type":  "item",
+		"tags": "quality:rare",
 		"name": "BF Touarex",
 		"name_color":  "4b69ff",
 		"background_color":  "3C352E",
@@ -247,6 +268,7 @@
 	{
 		"itemdefid": 31,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Benefactor G63",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -258,6 +280,7 @@
 	{
 		"itemdefid": 32,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Benefactor S65 PULLMAN",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -269,6 +292,7 @@
 	{
 		"itemdefid": 33,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Pegassi Turus",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -280,6 +304,7 @@
 	{
 		"itemdefid": 34,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Pfister Taycanero",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -291,6 +316,7 @@
 	{
 		"itemdefid": 35,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Enus Ghost",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -302,6 +328,7 @@
 	{
 		"itemdefid": 36,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Coil Model S",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -313,6 +340,7 @@
 	{
 		"itemdefid": 37,
 		"type":  "item",
+		"tags": "quality:epic",
 		"name": "Declasse Camars ZL1",
 		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
@@ -324,6 +352,7 @@
 	{
 		"itemdefid": 41,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Annis Sky R50",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -335,6 +364,7 @@
 	{
 		"itemdefid": 42,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Vapid Mustang GT",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -346,6 +376,7 @@
 	{
 		"itemdefid": 43,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Enus Cullins",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -357,6 +388,7 @@
 	{
 		"itemdefid": 44,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Benefactor AVRT",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -368,6 +400,7 @@
 	{
 		"itemdefid": 45,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Truffade Veyro",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -379,6 +412,7 @@
 	{
 		"itemdefid": 46,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Obey AR8",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -390,6 +424,7 @@
 	{
 		"itemdefid": 47,
 		"type":  "item",
+		"tags": "quality:mythic",
 		"name": "Pfister 918",
 		"name_color":  "de4b4b",
 		"background_color":  "3C352E",
@@ -401,6 +436,7 @@
 	{
 		"itemdefid": 51,
 		"type":  "item",
+		"tags": "quality:legendary",
 		"name": "Lampadati Cinq",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -412,6 +448,7 @@
 	{
 		"itemdefid": 52,
 		"type":  "item",
+		"tags": "quality:legendary",
 		"name": "Benefactor ONE",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -423,6 +460,7 @@
 	{
 		"itemdefid": 53,
 		"type":  "item",
+		"tags": "quality:legendary",
 		"name": "Pegassi Terzo",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -434,6 +472,7 @@
 	{
 		"itemdefid": 54,
 		"type":  "item",
+		"tags": "quality:legendary",
 		"name": "Enus EXP 100",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -445,6 +484,7 @@
 	{
 		"itemdefid": 55,
 		"type":  "item",
+		"tags": "quality:legendary",
 		"name": "Benefactor GT R Coupe",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -456,6 +496,7 @@
 	{
 		"itemdefid": 56,
 		"type":  "item",
+		"tags": "quality:legendary",
 		"name": "Overflod Jes",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -467,6 +508,7 @@
 	{
 		"itemdefid": 57,
 		"type":  "item",
+		"tags": "quality:special",
 		"name": "Freedom Yacht",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -478,6 +520,7 @@
 	{
 		"itemdefid": 58,
 		"type":  "item",
+		"tags": "quality:special",
 		"name": "Grace Yacht",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
@@ -489,6 +532,7 @@
 	{
 		"itemdefid": 59,
 		"type":  "item",
+		"tags": "quality:special",
 		"name": "Private Luxury Jet",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
