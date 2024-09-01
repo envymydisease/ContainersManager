@@ -506,7 +506,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/101_600.png",
 		"tradable": true,
 		"marketable": true
-		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Karin AE86[/COLOR] [*][COLOR=#5398d9]Vapid Mondeo[/COLOR] [*][COLOR=#4b69ff]Benefactor GLS63[/COLOR] [*][COLOR=#d32ce6]Coil Model S[/COLOR] [*][COLOR=#de4b4b]Truffade Veyro[/COLOR] [*][COLOR=#ffae42]Benefactor GT R Coupe[/COLOR]"
+		"description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Karin AE86[/COLOR] [*][COLOR=#5398d9]Vapid Mondeo[/COLOR] [*][COLOR=#4b69ff]Benefactor GLS63[/COLOR] [*][COLOR=#d32ce6]Coil Model S[/COLOR] [*][COLOR=#de4b4b]Truffade Veyro[/COLOR] [*][COLOR=#ffae42]Benefactor GT R Coupe[/COLOR]"
 	},
 	{
 		"itemdefid": 102,
@@ -518,7 +518,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/102_600.png",
 		"tradable": true,
 		"marketable": true
-		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Baz 2101[/COLOR] [*][COLOR=#5398d9]Grotti Julietta 156[/COLOR] [*][COLOR=#4b69ff]Maibatsu Evo Nine[/COLOR] [*][COLOR=#d32ce6]Benefactor G63[/COLOR] [*][COLOR=#de4b4b]Annis Sky R50[/COLOR] [*][COLOR=#ffae42]Lampadati Cinq[/COLOR]"
+		"description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Baz 2101[/COLOR] [*][COLOR=#5398d9]Grotti Julietta 156[/COLOR] [*][COLOR=#4b69ff]Maibatsu Evo Nine[/COLOR] [*][COLOR=#d32ce6]Benefactor G63[/COLOR] [*][COLOR=#de4b4b]Annis Sky R50[/COLOR] [*][COLOR=#ffae42]Lampadati Cinq[/COLOR]"
 	},
 	{
 		"itemdefid": 103,
@@ -530,7 +530,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/103_600.png",
 		"tradable": true,
 		"marketable": true
-		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Dinka Acco 8[/COLOR] [*][COLOR=#5398d9]BF Paccat 18[/COLOR] [*][COLOR=#4b69ff]BF Touarex[/COLOR] [*][COLOR=#d32ce6]Declasse Camars ZL1[/COLOR] [*][COLOR=#de4b4b]Obey AR8[/COLOR] [*][COLOR=#ffae42]Overflod Jes[/COLOR]"
+		"description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Dinka Acco 8[/COLOR] [*][COLOR=#5398d9]BF Paccat 18[/COLOR] [*][COLOR=#4b69ff]BF Touarex[/COLOR] [*][COLOR=#d32ce6]Declasse Camars ZL1[/COLOR] [*][COLOR=#de4b4b]Obey AR8[/COLOR] [*][COLOR=#ffae42]Overflod Jes[/COLOR]"
 	},
 	{
 		"itemdefid": 104,
@@ -542,7 +542,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/104_600.png",
 		"tradable": true,
 		"marketable": true
-                "description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Obey 80[/COLOR] [*][COLOR=#5398d9]Karin Camv[/COLOR] [*][COLOR=#4b69ff]Ubermacht E30[/COLOR] [*][COLOR=#d32ce6]Benefactor S65 PULLMAN[/COLOR] [*][COLOR=#de4b4b]Vapid Mustang GT[/COLOR] [*][COLOR=#ffae42]Benefactor ONE[/COLOR]"
+                "description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Obey 80[/COLOR] [*][COLOR=#5398d9]Karin Camv[/COLOR] [*][COLOR=#4b69ff]Ubermacht E30[/COLOR] [*][COLOR=#d32ce6]Benefactor S65 PULLMAN[/COLOR] [*][COLOR=#de4b4b]Vapid Mustang GT[/COLOR] [*][COLOR=#ffae42]Benefactor ONE[/COLOR]"
 	},
 	{
 		"itemdefid": 105,
@@ -554,7 +554,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/105_600.png",
 		"tradable": true,
 		"marketable": true
-                "description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Peugato 206[/COLOR] [*][COLOR=#5398d9]Ubermacht E34[/COLOR] [*][COLOR=#4b69ff]Albany Escalader[/COLOR] [*][COLOR=#d32ce6]Pfister Taycanero[/COLOR] [*][COLOR=#de4b4b]Enus Cullins[/COLOR] [*][COLOR=#ffae42]Enus EXP 100[/COLOR]"
+                "description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Peugato 206[/COLOR] [*][COLOR=#5398d9]Ubermacht E34[/COLOR] [*][COLOR=#4b69ff]Albany Escalader[/COLOR] [*][COLOR=#d32ce6]Pfister Taycanero[/COLOR] [*][COLOR=#de4b4b]Enus Cullins[/COLOR] [*][COLOR=#ffae42]Enus EXP 100[/COLOR]"
 	},
 	{
 		"itemdefid": 106,
@@ -566,7 +566,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/106_600.png",
 		"tradable": true,
 		"marketable": true
-                "description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Peugato 206[/COLOR] [*][COLOR=#5398d9]Ubermacht E34[/COLOR] [*][COLOR=#4b69ff]Albany Escalader[/COLOR] [*][COLOR=#d32ce6]Pfister Taycanero[/COLOR] [*][COLOR=#de4b4b]Enus Cullins[/COLOR] [*][COLOR=#ffae42]Enus EXP 100[/COLOR]"
+                "description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Peugato 206[/COLOR] [*][COLOR=#5398d9]Ubermacht E34[/COLOR] [*][COLOR=#4b69ff]Albany Escalader[/COLOR] [*][COLOR=#d32ce6]Pfister Taycanero[/COLOR] [*][COLOR=#de4b4b]Enus Cullins[/COLOR] [*][COLOR=#ffae42]Enus EXP 100[/COLOR]"
 	},
 	{
 		"itemdefid": 107,
@@ -578,7 +578,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/107_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Vapid Focus[/COLOR] [*][COLOR=#5398d9]Benefactor SL300[/COLOR] [*][COLOR=#4b69ff]Declasse Impaler 1967[/COLOR] [*][COLOR=#d32ce6]Enus Ghost[/COLOR] [*][COLOR=#de4b4b]Benefactor AVRT[/COLOR] [*][COLOR=#fff34f]or an Exceedingly Rare Special Item![/COLOR]"
+		"description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [*][COLOR=#b0bfcf]Vapid Focus[/COLOR] [*][COLOR=#5398d9]Benefactor SL300[/COLOR] [*][COLOR=#4b69ff]Declasse Impaler 1967[/COLOR] [*][COLOR=#d32ce6]Enus Ghost[/COLOR] [*][COLOR=#de4b4b]Benefactor AVRT[/COLOR] [*][COLOR=#fff34f]or an Exceedingly Rare Special Item![/COLOR]"
 	}
 	]
 }
