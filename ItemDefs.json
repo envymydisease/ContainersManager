@@ -291,7 +291,7 @@
 		"itemdefid": 35,
 		"type":  "item",
 		"name": "Enus Ghost",
-		"name_color":  "d2d2d2",
+		"name_color":  "d32ce6",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/35_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/35_600.png",
