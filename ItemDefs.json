@@ -572,7 +572,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/107_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [p][COLOR=#b0bfcf]Vapid Focus[/COLOR][/p] [p][COLOR=#5398d9]Benefactor SL300[/COLOR][/p] [p][COLOR=#4b69ff]Declasse Impaler 1967[/COLOR][/p] [p][COLOR=#d32ce6]Enus Ghost[/COLOR][/p] [p][COLOR=#de4b4b]Benefactor AVRT[/COLOR][/p] [p][COLOR=#fff34f]or an Exceedingly Rare Special Item![/COLOR][/p]"
+		"description": "[u][COLOR=#d2d2d2]Contains one of the following:[/COLOR][/u] [br][COLOR=#b0bfcf]Vapid Focus[/COLOR][/br] [b][COLOR=#5398d9]Benefactor SL300[/COLOR][/b] [n][COLOR=#4b69ff]Declasse Impaler 1967[/COLOR][/n] [p][COLOR=#d32ce6]Enus Ghost[/COLOR][/p] [p][COLOR=#de4b4b]Benefactor AVRT[/COLOR][/p] [p][COLOR=#fff34f]or an Exceedingly Rare Special Item![/COLOR][/p]"
 	}
 	]
 }
