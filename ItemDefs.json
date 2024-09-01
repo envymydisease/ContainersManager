@@ -572,7 +572,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/107_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "<font color='#d2d2d2'>EXAMPLE ITEM NAME</font>"
+		"description": "<span style="color:d2d2d2">TEST ADADW DAGAWGA</span>"
 	}
 	]
 }
