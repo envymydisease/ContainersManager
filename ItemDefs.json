@@ -464,8 +464,8 @@
 		"name": "Pegassi Terzo",
 		"name_color":  "ffae42",
 		"background_color":  "3C352E",
-		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/533_200.png",
-		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/533_600.png",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/53_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/53_600.png",
 		"tradable": true,
 		"marketable": true
 	},
