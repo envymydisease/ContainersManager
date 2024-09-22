@@ -72,6 +72,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/6_600.png",
 		"tradable": true,
 		"marketable": true
+		"description": "[*][COLOR=#d2d2d2]Rusty collection[/COLOR]"
 	},
 	{
 		"itemdefid": 7,
@@ -156,6 +157,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/16_600.png",
 		"tradable": true,
 		"marketable": true
+		"description": "[*][COLOR=#d2d2d2]Rusty collection[/COLOR]"
 	},
 	{
 		"itemdefid": 17,
@@ -252,6 +254,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/26_600.png",
 		"tradable": true,
 		"marketable": true
+		"description": "[*][COLOR=#d2d2d2]Rusty collection[/COLOR]"
 	},
 	{
 		"itemdefid": 27,
@@ -336,6 +339,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/36_600.png",
 		"tradable": true,
 		"marketable": true
+		"description": "[*][COLOR=#d2d2d2]Rusty collection[/COLOR]"
 	},
 	{
 		"itemdefid": 37,
@@ -408,6 +412,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/45_600.png",
 		"tradable": true,
 		"marketable": true
+		"description": "[*][COLOR=#d2d2d2]Rusty collection[/COLOR]"
 	},
 	{
 		"itemdefid": 46,
@@ -492,6 +497,7 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/55_600.png",
 		"tradable": true,
 		"marketable": true
+		"description": "[*][COLOR=#d2d2d2]Rusty collection[/COLOR]"
 	},
 	{
 		"itemdefid": 56,
