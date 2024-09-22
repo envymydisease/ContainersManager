@@ -11,7 +11,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/1_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/1_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Bronze collection[/COLOR]"
 	},
         {
 		"itemdefid": 2,
@@ -23,7 +24,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/2_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/2_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Gold collection[/COLOR]"
 	},
 	{
 		"itemdefid": 3,
@@ -35,7 +37,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/3_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/3_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Graffiti collection[/COLOR]"
 	},
 	{
 		"itemdefid": 4,
@@ -47,7 +50,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/4_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/4_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Lightning collection[/COLOR]"
 	},
 	{
 		"itemdefid": 5,
@@ -59,7 +63,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/5_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/5_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 6,
@@ -84,7 +89,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/7_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/7_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Silver collection[/COLOR]"
 	},
 	{
 		"itemdefid": 11,
@@ -96,7 +102,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/11_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/11_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Bronze collection[/COLOR]"
 	},
 	{
 		"itemdefid": 12,
@@ -108,7 +115,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/12_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/12_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Gold collection[/COLOR]"
 	},
 	{
 		"itemdefid": 13,
@@ -120,7 +128,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/13_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/13_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Graffiti collection[/COLOR]"
 	},
 	{
 		"itemdefid": 14,
@@ -132,7 +141,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/14_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/14_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Lightning collection[/COLOR]"
 	},
 	{
 		"itemdefid": 15,
@@ -144,7 +154,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/15_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/15_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 16,
@@ -181,7 +192,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/17_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/17_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Silver collection[/COLOR]"
 	},
 	{
 		"itemdefid": 21,
@@ -193,7 +205,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/21_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/21_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Bronze collection[/COLOR]"
 	},
 	{
 		"itemdefid": 22,
@@ -205,7 +218,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/22_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/22_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Gold collection[/COLOR]"
 	},
 	{
 		"itemdefid": 23,
@@ -217,7 +231,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/23_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/23_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Graffiti collection[/COLOR]"
 	},
 	{
 		"itemdefid": 24,
@@ -229,7 +244,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/24_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/24_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Lightning collection[/COLOR]"
 	},
 	{
 		"itemdefid": 25,
@@ -241,7 +257,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/25_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/25_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 26,
@@ -266,7 +283,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/27_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/27_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Silver collection[/COLOR]"
 	},
 	{
 		"itemdefid": 31,
@@ -278,7 +296,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/31_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/31_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Bronze collection[/COLOR]"
 	},
 	{
 		"itemdefid": 32,
@@ -290,7 +309,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/32_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/32_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Gold collection[/COLOR]"
 	},
 	{
 		"itemdefid": 33,
@@ -302,7 +322,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/33_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/33_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Graffiti collection[/COLOR]"
 	},
 	{
 		"itemdefid": 34,
@@ -314,7 +335,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/34_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/34_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Lightning collection[/COLOR]"
 	},
 	{
 		"itemdefid": 35,
@@ -326,7 +348,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/35_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/35_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 36,
@@ -351,7 +374,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/37_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/37_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Silver collection[/COLOR]"
 	},
 	{
 		"itemdefid": 41,
@@ -363,7 +387,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/41_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/41_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Bronze collection[/COLOR]"
 	},
 	{
 		"itemdefid": 42,
@@ -375,7 +400,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/42_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/42_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Gold collection[/COLOR]"
 	},
 	{
 		"itemdefid": 43,
@@ -387,7 +413,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/43_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/43_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Lightning collection[/COLOR]"
 	},
 	{
 		"itemdefid": 44,
@@ -399,7 +426,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/44_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/44_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 45,
@@ -424,7 +452,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/46_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/46_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Silver collection[/COLOR]"
 	},
 	{
 		"itemdefid": 47,
@@ -436,7 +465,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/47_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/47_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Graffiti collection[/COLOR]"
 	},
 	{
 		"itemdefid": 51,
@@ -448,7 +478,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/51_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/51_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Bronze collection[/COLOR]"
 	},
 	{
 		"itemdefid": 52,
@@ -460,7 +491,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/52_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/52_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Gold collection[/COLOR]"
 	},
 	{
 		"itemdefid": 53,
@@ -472,7 +504,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/53_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/53_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Graffiti collection[/COLOR]"
 	},
 	{
 		"itemdefid": 54,
@@ -484,7 +517,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/54_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/54_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Lightning collection[/COLOR]"
 	},
 	{
 		"itemdefid": 55,
@@ -509,7 +543,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/56_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/56_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Silver collection[/COLOR]"
 	},
 	{
 		"itemdefid": 57,
@@ -521,7 +556,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/57_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/57_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 58,
@@ -533,7 +569,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/58_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/58_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 59,
@@ -545,7 +582,8 @@
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/59_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/59_600.png",
 		"tradable": true,
-		"marketable": true
+		"marketable": true,
+		"description": "[*][COLOR=#d2d2d2]Rainbow collection[/COLOR]"
 	},
 	{
 		"itemdefid": 101,
