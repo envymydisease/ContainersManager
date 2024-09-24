@@ -551,14 +551,14 @@
 		"type":  "item",
 		"tags": "quality:special",
 		"name": "Freedom Yacht",
-		"name_color":  "ffae42",
+		"name_color":  "fff34f",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/57_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/57_600.png",
 		"tradable": true,
 		"marketable": true,
 		"description_english": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]",
-		"description_russian": "[h3][COLOR=#fff34f]Яхта, дарящая полную свободу. Это плавучий оазис роскоши, созданный для тех, кто хочет наслаждаться жизнью вдали от берегов.[/COLOR][/h3][COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description_russian": "[code][COLOR=#fff34f]Яхта, дарящая полную свободу. Это плавучий оазис роскоши, созданный для тех, кто хочет наслаждаться жизнью вдали от берегов.[/COLOR][COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR][/code]"
 		
 	},
 	{
