@@ -566,26 +566,28 @@
 		"type":  "item",
 		"tags": "quality:special",
 		"name": "Grace Yacht",
-		"name_color":  "ffae42",
+		"name_color":  "fff34f",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/58_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/58_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description_english": "[COLOR=#fff34f]A yacht with exquisite design and elegant lines. It’s not just a means of transportation but a work of art that evokes envy and admiration. Your personal oasis on the water[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]",
+		"description_russian": "[COLOR=#fff34f]Яхта с изысканным дизайном и элегантными линиями. Она не просто средство передвижения, а произведение искусства, вызывающее зависть и восхищение. Это твой личный оазис на воде[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]"
 	},
 	{
 		"itemdefid": 59,
 		"type":  "item",
 		"tags": "quality:special",
 		"name": "Private Luxury Jet",
-		"name_color":  "ffae42",
+		"name_color":  "fff34f",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/59_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/59_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/code][/COLOR]"
+		"description_english": "[COLOR=#fff34f]This luxurious private jet symbolizes exclusivity and success. It allows you to soar where ordinary vehicles cannot reach. Only the luckiest players can add it to their collection[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]",
+		"description_russian": "[COLOR=#fff34f]Этот роскошный частный самолет символизирует исключительность и успех. Позволяет тебе летать туда, куда не долетят обычные машины. Только самые удачливые игроки смогут заполучить его в свою коллекцию[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]"
 	},
 	{
 		"itemdefid": 101,
