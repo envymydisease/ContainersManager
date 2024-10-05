@@ -685,6 +685,19 @@
 		"tradable": true,
 		"marketable": true,
 		"description_russian": "[COLOR=#fff34f]★ EXCLUSIVE ★\n\nТвои навыки и удача настолько мощные, что этот брелок будто подмигивает: Я здесь по блату![/COLOR]"
+	},
+	{
+		"itemdefid": 109,
+		"type":  "item",
+		"name": "★ Keychain | StRoGo",
+		"name_color":  "fff34f",
+		"tags": "quality:Exclusive",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/109_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/109_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "[COLOR=#fff34f]★ EXCLUSIVE ★\n\nЭтот брелок добавит +100 к удаче (но это не точно) и гарантированно повысит настроение. Везение стримера StRoGo теперь в твоём инвентаре![/COLOR]"
 	}
 	]
 }
