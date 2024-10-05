@@ -674,7 +674,7 @@
 		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Vapid Focus[/COLOR] [*][COLOR=#5398d9]Benefactor SL300[/COLOR] [*][COLOR=#4b69ff]Declasse Impaler 1967[/COLOR] [*][COLOR=#d32ce6]Enus Ghost[/COLOR] [*][COLOR=#de4b4b]Benefactor AVRT[/COLOR] [*][COLOR=#fff34f]or an Exceedingly Rare Special Item![/COLOR]"
 	},
         {
-		"itemdefid": 109,
+		"itemdefid": 108,
 		"type":  "item",
 		"name": "Keychain | Skillz0r1337",
 		"name_color":  "fff34f",
