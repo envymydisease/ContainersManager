@@ -93,6 +93,20 @@
 		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
 	},
 	{
+		"itemdefid": 8,
+		"type":  "item",
+		"tags": "quality:common",
+		"name": "Chronos hourglass",
+		"name_color":  "b0bfcf",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/8_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/8_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "Древний артефакт, контролирующий течение времени и позволяющий видеть моменты прошлого\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact that controls the flow of time and allows glimpses into the past\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]"
+	},
+	{
 		"itemdefid": 11,
 		"type":  "item",
 		"tags": "quality:uncommon",
@@ -182,6 +196,20 @@
 		"tradable": true,
 		"marketable": true,
 		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
+	},
+	{
+		"itemdefid": 18,
+		"type":  "item",
+		"tags": "quality:uncommon",
+		"name": "King Arthur's dagger",
+		"name_color":  "d2d2d2",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/18_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/18_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "Легендарное оружие из священного арсенала Артура, наделенное силой сражаться со злом\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]",
+                "description_english": "A legendary weapon from Arthur's sacred arsenal, imbued with the power to fight evil\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 21,
@@ -275,6 +303,20 @@
 		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
 	},
 	{
+		"itemdefid": 28,
+		"type":  "item",
+		"tags": "quality:rare",
+		"name": "The invisibility helmet",
+		"name_color":  "4b69ff",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/28_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/28_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "Древний артефакт, носитель которого становится невидимым для всех глаз, включая богов\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact that renders its wearer invisible to all eyes, including those of the gods\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]"
+	},
+	{
 		"itemdefid": 31,
 		"type":  "item",
 		"tags": "quality:epic",
@@ -366,6 +408,20 @@
 		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Silver collection[/url][/code][/COLOR]"
 	},
 	{
+		"itemdefid": 38,
+		"type":  "item",
+		"tags": "quality:epic",
+		"name": "A mermaid's tear",
+		"name_color":  "d32ce6",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/38_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/38_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "Магическая слеза древнего морского существа, способная исцелять и открывать тайны морских глубин\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]",
+                "description_english": "A magical tear from an ancient sea creature, capable of healing and revealing the mysteries of the deep\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]"
+	},
+	{
 		"itemdefid": 41,
 		"type":  "item",
 		"tags": "quality:mythic",
@@ -455,6 +511,20 @@
 		"tradable": true,
 		"marketable": true,
 		"description": "[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Graffiti%20container]• Graffiti collection[/url][/code][/COLOR]"
+	},
+	{
+		"itemdefid": 48,
+		"type":  "item",
+		"tags": "quality:mythic",
+		"name": "Loki's amulet",
+		"name_color":  "de4b4b",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/48_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/48_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "Амулет, заряженный хитростью и магией бога обмана, способный изменять реальность в свою пользу\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]",
+                "description_english": "An amulet charged with the cunning and magic of the trickster god, capable of altering reality in the owner's favor\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 51,
@@ -578,6 +648,20 @@
 		"description_russian": "[COLOR=#fff34f]Этот роскошный частный самолет символизирует исключительность и успех. Позволяет тебе летать туда, куда не долетят обычные машины. Только самые удачливые игроки смогут заполучить его в свою коллекцию[/COLOR]\n\n[COLOR=#d2d2d2][url=https://steamcommunity.com/market/listings/3150950/Rainbow%20container]• Rainbow collection[/url][/COLOR]"
 	},
 	{
+		"itemdefid": 60,
+		"type":  "item",
+		"tags": "quality:legendary",
+		"name": "Dragon egg",
+		"name_color":  "fff34f",
+		"background_color":  "3C352E",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/60_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/60_600.png",
+		"tradable": true,
+		"marketable": true,
+		"description_russian": "Древний артефакт, скрывающий в себе сущность дракона. Легенда гласит, что он пробудится, чтобы исполнить пророчество\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact containing the essence of a dragon. Legend says it will awaken to fulfill a prophecy\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Silver%20container]• Mythic collection[/url][/code][/COLOR]"
+	},
+	{
 		"itemdefid": 101,
 		"type":  "item",
 		"name": "Rusty container",
@@ -664,28 +748,14 @@
         {
 		"itemdefid": 108,
 		"type":  "item",
-		"name": "★ Брелок | Skillz0r1337",
-		"name_color":  "fff34f",
-		"tags": "quality:Exclusive",
+		"name": "Mythic container",
+		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/108_200.png",
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/108_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "[COLOR=#fff34f]★ EXCLUSIVE ★\n\nТвои навыки и удача настолько мощные, что этот брелок будто подмигивает: Я здесь по блату![/COLOR]"
-	},
-	{
-		"itemdefid": 109,
-		"type":  "item",
-		"name": "★ Брелок | StRoGo",
-		"name_color":  "fff34f",
-		"tags": "quality:Exclusive",
-		"background_color":  "3C352E",
-		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/109_200.png",
-		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/109_600.png",
-		"tradable": true,
-		"marketable": true,
-		"description_russian": "[COLOR=#fff34f]★ EXCLUSIVE ★\n\nЭтот брелок добавит +100 к удаче (но это не точно) и гарантированно повысит настроение. Везение стримера StRoGo теперь в твоём инвентаре![/COLOR]"
+		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Chronos Hourglass[/COLOR] [*][COLOR=#5398d9]King Arthur's dagger[/COLOR] [*][COLOR=#4b69ff]The invisibility helmet[/COLOR] [*][COLOR=#d32ce6]A mermaid's tear[/COLOR] [*][COLOR=#de4b4b]Loki's amulet[/COLOR] [*][COLOR=#fff34f]Dragon egg[/COLOR]"
 	}
 	]
 }
