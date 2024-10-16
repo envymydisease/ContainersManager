@@ -746,13 +746,13 @@
 		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Vapid Focus[/COLOR] [*][COLOR=#5398d9]Benefactor SL300[/COLOR] [*][COLOR=#4b69ff]Declasse Impaler 1967[/COLOR] [*][COLOR=#d32ce6]Enus Ghost[/COLOR] [*][COLOR=#de4b4b]Benefactor AVRT[/COLOR] [*][COLOR=#fff34f]or an Exceedingly Rare Special Item![/COLOR]"
 	},
         {
-		"itemdefid": 108,
+		"itemdefid": 110,
 		"type":  "item",
 		"name": "Mythic container",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
-		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/108_100.png",
-		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/108_500.png",
+		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/110_200.png",
+		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/110_600.png",
 		"tradable": true,
 		"marketable": true,
 		"description": "[COLOR=#d2d2d2]Contains one of the following:[/COLOR] [*][COLOR=#b0bfcf]Chronos Hourglass[/COLOR] [*][COLOR=#5398d9]King Arthur's dagger[/COLOR] [*][COLOR=#4b69ff]The invisibility helmet[/COLOR] [*][COLOR=#d32ce6]A mermaid's tear[/COLOR] [*][COLOR=#de4b4b]Loki's amulet[/COLOR] [*][COLOR=#fff34f]Dragon egg[/COLOR]"
