@@ -103,8 +103,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/8_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Древний артефакт, контролирующий течение времени и позволяющий видеть моменты прошлого\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]",
-                "description_english": "An ancient artifact that controls the flow of time and allows glimpses into the past\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]"
+		"description_russian": "Древний артефакт, контролирующий течение времени и позволяющий видеть моменты прошлого\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact that controls the flow of time and allows glimpses into the past\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 11,
@@ -208,8 +208,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/18_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Легендарное оружие из священного арсенала Артура, наделенное силой сражаться со злом\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]",
-                "description_english": "A legendary weapon from Arthur's sacred arsenal, imbued with the power to fight evil\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]"
+		"description_russian": "Легендарное оружие из священного арсенала Артура, наделенное силой сражаться со злом\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
+                "description_english": "A legendary weapon from Arthur's sacred arsenal, imbued with the power to fight evil\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 21,
@@ -313,8 +313,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/28_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Древний артефакт, носитель которого становится невидимым для всех глаз, включая богов\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]",
-                "description_english": "An ancient artifact that renders its wearer invisible to all eyes, including those of the gods\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]"
+		"description_russian": "Древний артефакт, носитель которого становится невидимым для всех глаз, включая богов\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact that renders its wearer invisible to all eyes, including those of the gods\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 31,
@@ -418,8 +418,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/38_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Магическая слеза древнего морского существа, способная исцелять и открывать тайны морских глубин\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]",
-                "description_english": "A magical tear from an ancient sea creature, capable of healing and revealing the mysteries of the deep\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]"
+		"description_russian": "Магическая слеза древнего морского существа, способная исцелять и открывать тайны морских глубин\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
+                "description_english": "A magical tear from an ancient sea creature, capable of healing and revealing the mysteries of the deep\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 41,
@@ -523,8 +523,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/48_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Амулет, заряженный хитростью и магией бога обмана, способный изменять реальность в свою пользу\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]",
-                "description_english": "An amulet charged with the cunning and magic of the trickster god, capable of altering reality in the owner's favor\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]"
+		"description_russian": "Амулет, заряженный хитростью и магией бога обмана, способный изменять реальность в свою пользу\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
+                "description_english": "An amulet charged with the cunning and magic of the trickster god, capable of altering reality in the owner's favor\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 51,
@@ -658,8 +658,8 @@
 		"icon_url_large": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/60_600.png",
 		"tradable": true,
 		"marketable": true,
-		"description_russian": "Древний артефакт, скрывающий в себе сущность дракона. Легенда гласит, что он пробудится, чтобы исполнить пророчество\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]",
-                "description_english": "An ancient artifact containing the essence of a dragon. Legend says it will awaken to fulfill a prophecy\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythic collection[/url][/code][/COLOR]"
+		"description_russian": "Древний артефакт, скрывающий в себе сущность дракона. Легенда гласит, что он пробудится, чтобы исполнить пророчество\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]",
+                "description_english": "An ancient artifact containing the essence of a dragon. Legend says it will awaken to fulfill a prophecy\n\n[COLOR=#d2d2d2][code][url=https://steamcommunity.com/market/listings/3150950/Mythic%20container]• Mythical collection[/url][/code][/COLOR]"
 	},
 	{
 		"itemdefid": 101,
@@ -748,7 +748,7 @@
         {
 		"itemdefid": 108,
 		"type":  "item",
-		"name": "Mythic container",
+		"name": "Mythical container",
 		"name_color":  "d2d2d2",
 		"background_color":  "3C352E",
 		"icon_url": "https://raw.githubusercontent.com/envymydisease/ContainersManager/main/Graphics/108_200.png",
